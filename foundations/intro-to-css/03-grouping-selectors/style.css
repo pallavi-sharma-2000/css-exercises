@@ -1,1 +1,15 @@
 /* Add CSS Styling */
+
+.main-button, .alt-button {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.main-button {
+    background-color: black;
+    color: white;
+}
+
+.alt-button {
+    background-color: yellow;
+}
