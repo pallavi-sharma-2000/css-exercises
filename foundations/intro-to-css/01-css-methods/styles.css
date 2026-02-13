@@ -1,0 +1,10 @@
+div, p {
+    color: white;
+}
+
+div {
+    background-color: red;
+    font-size:22px;
+    text-align: center;
+    font-weight: 700;
+}
